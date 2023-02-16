@@ -1,0 +1,6 @@
+In RStudio (Modellierung_Iod.R) muss in Zeile 5 das working directory so angepasst werden,
+dass der Ordner "Meteorologie" im selben Verzeichnis liegt.
+
+Damit wird auch "Daten für Maxima_Export_Gesamt_Iod.csv" im gleichen Verzeichnis gespeichert
+
+Die wxMaxima-Datei "dynamische Expositionskarten Iod" muss ebenfalls im gleichen Verzeichnis liegen.

@@ -1,0 +1,6 @@
+In RStudio (Modellierung_Cs.R) muss in Zeile 5 das working directory so angepasst werden,
+dass der Ordner "Meteorologie" im selben Verzeichnis liegt.
+
+Damit wird auch "Daten für Maxima_Export_Gesamt_Cs.csv" im gleichen Verzeichnis gespeichert
+
+Die wxMaxima-Dateien "dynamische Expositionskarten Cs oben" und "dynamische Expositionskarten Cs schraeg" müssen ebenfalls im gleichen Verzeichnis liegen.
